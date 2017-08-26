@@ -1,4 +1,4 @@
-# Lab 1: Personal Project
+# Lab 1: Personal Portfolio
 
 ## Maria Loza
 
