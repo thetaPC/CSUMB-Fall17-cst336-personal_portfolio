@@ -30,7 +30,7 @@ in html
         </header>
         <nav>
             <hr width="50%"/>
-            <a id="home" href="index.html">Home</a>
+            <a id="home" href="index.php">Home</a>
             <a id="about" href="about.html">About</a>
             <a id="contact" href="contact.html">Contact</a>
         </nav>
