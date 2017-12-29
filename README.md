@@ -3,3 +3,5 @@
 ## Maria Loza
 
 ### CST 336
+
+Personal portfolio for course 336 (CSUMB)
